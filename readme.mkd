@@ -1,0 +1,8 @@
+dotjsfiles
+==========
+
+use this, it's awesome:
+
+http://defunkt.io/dotjs
+
+these are my dotfiles for it. they consist almost entirely of CSS readability fixes, optimized for my laptop, which is an 11" MacBook Air - a fantastic computer with a microscopic screen.
