@@ -10,5 +10,8 @@ $().ready(function() {
 
   // don't show me extraneous HRs either
   $("<style type='text/css'>.component-spacer{ display: none }</style>").appendTo("head");
+
+  // in fact, just shut the fuck up
+  $("<style type='text/css'>div.dashboard{ display: none }</style>").appendTo("head");
 });
 
