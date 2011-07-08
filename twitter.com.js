@@ -13,5 +13,7 @@ $().ready(function() {
 
   // in fact, just shut the fuck up
   $("<style type='text/css'>div.dashboard{ display: none }</style>").appendTo("head");
+  // TODO: Twitter repopulates .dashboard periodically, so something more severe may be
+  // required.
 });
 
