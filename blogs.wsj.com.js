@@ -1,0 +1,18 @@
+$("#rightRail").hide();
+$("#rightRail").hide();
+$(".col6wide").css("width", "700px");
+$(".postcats").hide();
+$(".blognav").hide();
+$(".articleTools_bottom").hide();
+$(".adSummary").hide();
+$(".commentform").hide();
+$(".postcomments").hide();
+$(".se_blogheader").hide();
+$(".se_mainNav").hide();
+$(".se_subNav").hide();
+$(".art_tabbed_nav").hide();
+$(".aTools").hide();
+$(".searchform").hide();
+$(".more_in").hide();
+$(".usersection").hide();
+$("#hat_div").hide();
