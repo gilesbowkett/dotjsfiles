@@ -1,0 +1,1 @@
+$("#article #wrapper header").hide();
