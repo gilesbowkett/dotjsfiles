@@ -1,0 +1,1 @@
+$("#post-share-widget").hide();
