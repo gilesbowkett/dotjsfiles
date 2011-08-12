@@ -1,4 +1,5 @@
-$().ready(function() {
+// first, kill all the horrible bullshit they crammed into this UI
+
   // don't show me trending topics
   $("<style type='text/css'>.trends-inner{ display: none }</style>").appendTo("head");
 
@@ -13,7 +14,7 @@ $().ready(function() {
 
   // in fact, just shut the fuck up
   $("<style type='text/css'>div.dashboard{ display: none }</style>").appendTo("head");
-  // TODO: Twitter repopulates .dashboard periodically, so something more severe may be
-  // required.
-});
+      // TODO: Twitter repopulates .dashboard occasionally, so something more severe
+      // may be required.
 
+// next, antispam hack
