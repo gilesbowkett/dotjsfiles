@@ -3,6 +3,9 @@ $(".mainnavs ul").hide();
 $("#custom-header").hide();
 $("#hlinks").hide();
 
+// complete assholery
+$("#overlay-header").hide();
+
 // ads
 $("#portalLink").hide();
 $(".hireme").hide();
