@@ -11,3 +11,4 @@ $(".subtext").css("color", "silver");
 $(".subtext").css("padding-bottom", "10px");
 
 $(".title").css("font-size", "12pt");
+
