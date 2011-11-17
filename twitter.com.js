@@ -3,6 +3,9 @@
   // don't show me trending topics
   $("<style type='text/css'>.trends-inner{ display: none }</style>").appendTo("head");
 
+  // no
+  $("<style type='text/css'>.one-click-import{ display: none }</style>").appendTo("head");
+
   // don't show me promoted tweets
   $("<style type='text/css'>p.promo{ display: none }</style>").appendTo("head");
 
