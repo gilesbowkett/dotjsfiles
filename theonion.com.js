@@ -1,0 +1,1 @@
+$("#topnav").remove() // makes page up / down buttons useless
