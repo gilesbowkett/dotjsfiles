@@ -1,6 +1,7 @@
 // too many nav options
 $(".mainnavs ul").hide();
 $("#custom-header").hide();
+$("#overlay-header").hide();
 $("#hlinks").hide();
 
 // complete assholery
