@@ -4,3 +4,5 @@ $(".content-sidebar").hide();
 $(".topmenu").hide();
 $(".banner-wrapper").hide();
 $(".header").hide();
+$("#post-toolbar").remove()
+
