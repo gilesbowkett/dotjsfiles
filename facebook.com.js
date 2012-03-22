@@ -5,3 +5,5 @@ $("#pagelet_apps_nav").hide();
 $(".fbDock").hide();
 $("<style type='text/css'>.fbDock{ display: none }</style>").appendTo("head");
 
+$("#pagelet_sidebar").remove()
+
