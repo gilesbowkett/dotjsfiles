@@ -7,8 +7,11 @@ $("span.comment").css("font-family", "Trebuchet MS");
 $("span.comment").css("line-height", "1.6em");
 
 $(".subtext").css("font-size", "10pt");
-$(".subtext").css("color", "silver");
+$(".subtext").css("color", "white");
 $(".subtext").css("padding-bottom", "10px");
 
 $(".title").css("font-size", "12pt");
+
+$("td.title > a:link").css("color", "blue");
+$("a:contains('flag')").css("color", "white");
 
