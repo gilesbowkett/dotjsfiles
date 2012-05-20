@@ -1,11 +1,11 @@
 // too many nav options
 $(".mainnavs ul").hide();
 $("#custom-header").hide();
-$("<style type='text/css'>#overlay-header{ display: none }</style>").appendTo("head");
 $("#hlinks").hide();
 
 // complete assholery
-$("#overlay-header").hide();
+$("<style type='text/css'>#overlay-header{ display: none }</style>").appendTo("head");
+$("#overlay-header").remove();
 
 // ads
 $("#portalLink").hide();
