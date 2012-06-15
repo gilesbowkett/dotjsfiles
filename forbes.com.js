@@ -10,3 +10,6 @@ $(".article").css("margin-left", "20px")
 $(".engagement_block").hide()
 $("#comments").hide()
 $("footer").hide()
+
+$("#follow_bar").hide()
+
