@@ -1,0 +1,1 @@
+$("<style type='text/css'>.getsocial{ display: none }</style>").appendTo("head");
