@@ -1,0 +1,1 @@
+$("#social_bookmarks").hide();
