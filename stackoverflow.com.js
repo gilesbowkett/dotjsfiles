@@ -9,7 +9,7 @@ $("#overlay-header").remove();
 
 // ads
 $("#portalLink").hide();
-$(".hireme").hide();
+$("#hireme").hide();
 $("#adzerk1").hide();
 $(".everyonelovesstackoverflow").hide();
 $("#adzerk2").hide();
