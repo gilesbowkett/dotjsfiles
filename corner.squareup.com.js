@@ -1,0 +1,1 @@
+$("body").css("color", "black");
