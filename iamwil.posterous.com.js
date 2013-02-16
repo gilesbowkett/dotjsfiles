@@ -1,0 +1,1 @@
+$(".post").css("color", "black");
